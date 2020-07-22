@@ -14,6 +14,11 @@ select * from example_dataset.syslog_<date> WHERE textPayload LIKE '%shutdown%'
 ```
 
 ### Error Reporting and Debugging
+[Google Cloud SDK](https://cloud.google.com/sdk)  
+[Java SE 11 Development Kit](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)  
+[Git](https://git-scm.com/downloads)  
+[Maven 3.5 or greater](https://maven.apache.org/download.cgi)  
+
 ```
 git clone https://github.com/GoogleCloudPlatform/java-docs-samples
 cd java-docs-samples/appengine-java11/springboot-helloworld
